@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cozyplanes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cozyplanes.github.io
+  * I am cozyplanes (https://keybase.io/cozyplanes) on keybase.
+  * I have a public key ASAbU-W-gHFygxHUIDMEnopcfZeFcCYiX4VUnUmhhl1FbQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201b53e5be8071728311d42033049e8a5c7d97857026225f85549d49a1865d456d0a",
+      "host": "keybase.io",
+      "kid": "01201b53e5be8071728311d42033049e8a5c7d97857026225f85549d49a1865d456d0a",
+      "uid": "fdd768f6b76a7133b04490e9c5e4d119",
+      "username": "cozyplanes"
+    },
+    "merkle_root": {
+      "ctime": 1522835071,
+      "hash": "024405956c88bed81ffd7676e78db0dfd90e352c856fb6724b75fe39bfa8b0514d12ee8a2fa2dd8c8cc4e45c3e5823493fb196e8bbfe657795c9616f2302fda2",
+      "hash_meta": "c9d5a13c24126e48c974e627942aeabb3497ccc4f3338ed790a98f52e5a236c7",
+      "seqno": 2333183
+    },
+    "service": {
+      "entropy": "S4OilImH8mYPW4/HT0l2sSgT",
+      "hostname": "cozyplanes.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1522835092,
+  "expire_in": 504576000,
+  "prev": "16b7907202966cc84a4a7c1fe95b37bd07bd32b90efb5681b31c51f455b4a1a6",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgG1PlvoBxcoMR1CAzBJ6KXH2XhXAmIl+FVJ1JoYZdRW0Kp3BheWxvYWTESpcCCMQgFreQcgKWbMhKSnwf6Vs3vQe9MrkO+1aBsxxR9FW0oabEIOHVBjvMsA82d7iExg3HKp6kSyUCNJ3V2Rm5CzoWm/quAgHCo3NpZ8RAdydWRbQBxpfvwpq+PXIksPS2XV1mokUCPxdxv0vGE/pu2Dc9mLHtpRzEJPMrnv05XoMnlwEMsOLKdKjtzho0C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMqV5PtcxokMCFy5lEnYdqTJojmsBnGpa/iNWoKNCaVqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cozyplanes
+
+==================================================================
